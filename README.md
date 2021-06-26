@@ -1,2 +1,2 @@
 # MobileStoreSellerSystem
-Project Made for Systems Analysis and Design Course
+Project made for Systems Analysis and Design course
